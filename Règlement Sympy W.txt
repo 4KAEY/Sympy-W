@@ -1,0 +1,76 @@
+**Règlement de l'Événement de Code Collectif**
+
+*Article 1 : Objectif de l'événement*
+
+Cet événement de Software a pour but de démontrer que les IA peuvent détrôner le travail d’un vrai développeur, d’exposer la diversité dans le domaine de l’informatique ( Hardware, Software, Cybersécurité, Game Design…etc, partager ses connaissances, favoriser l'esprit d'équipe dans le domaine de l’informatique et faire découvrir ses projets au monde.
+
+*Article 2 : Participants*
+
+2.1. L'événement est ouvert à tous les développeurs, étudiants en informatique, amateurs et professionnels.
+
+2.2. Chaque participant a rempli un petit formulaire pour être sûr de sa présence tout au long de l’événement ou à la moitié si ce n’est pas encore fait, merci de contacter le support [voir Article 9].
+
+2.3. Les deux équipes sont formées équitablement selon vos capacités.
+
+2.4 Les deux équipes peuvent se réunir pour choisir un Nom ou un Logo pour les représenter.
+
+*Article 3 : Projets*
+
+3.1. Chaque équipe doit choisir un projet sur lequel elle travaillera (soit une application web fullstack, un jeu simple ou un bot  fonctionnel) sur lequel ils travailleront pendant toute la durée de l’événement.
+
+3.2. Les projets peuvent être créés à base de librairies comme Sympy, Python Docs,Bootstrap,Code Box,Anime.JS,React…etc
+
+3.3. Les projets doivent respecter des normes éthiques et légales.
+
+*Article 4 : Déroulement de l'événement*
+
+4.1. L'événement se déroulera sur le durée du 29 Février au 2 Mars ( 2 semaines ).
+
+4.2. Chaque équipe doit présenter son projet à la fin de l'événement, en mettant en évidence les fonctionnalités développées et avec quoi.
+
+4.3. Des Administrateurs et Modérateurs seront disponibles si des problèmes sont rencontrés ou questions  posées.
+
+*Article 5 : Éthique*
+
+
+5.1. Aucune activité illégale ou contraire à l'éthique ne sera tolérée et sera passible d’un bannissement définitif de l’événement.
+
+5.2. Le respect des autres participants est primordial, toute forme de discrimination ou de harcèlement,racisme,sexisme ou misandrie ne sera pas tolérée.
+
+5.3. Les formes de triche comme le vol d’un projet déjà existant, sabotage,grosses copies sont passible d’une expulsion temporaire de l’événement.
+
+5.4. La diffusion d'information privée de soi ou d’autres participants ou de l’administration est interdite sous peine de sanction.
+
+5.5. Le spoil est interdit.
+
+5.6. Le contenu pornographique, pédopornographique est interdit.
+
+5.7. Les discussions sur la religion ou la politique extrémiste sont interdites.
+
+5.8. Merci de garder un langage correct.
+
+5.9. Rien ne doit être contraire à la loi Française,Belge, Canadienne ou Suisse.
+
+
+*Article 6 : Prix et Reconnaissances*
+
+6.1. Des prix seront décernés à des membres des équipes en fonction de la qualité du travail.
+
+6.2. Pour les serveurs collaborateurs et collaborateurs simples, des titres leur seront décernés pour la participation au projet en remerciement.
+
+*Article 7 : Responsabilité*
+
+7.1. L’organisateur est totalement responsable de tout ce qui se passera au cours de cet événement.
+
+7.2. Chaque participant est responsable de ses propres actions et du respect du règlement.
+
+*Article 8 : Modifications*
+
+8.1. L’organisateur se réserve le droit d'apporter des modifications au règlement en cas de nécessité. Toute modification sera communiquée aux participants.
+
+*Article 9 : Support*
+
+9.1. Vous pouvez vous mettre en contact avec
+
+
+En participant à l'événement, chaque participant accepte les termes et conditions énoncés dans ce règlement.
